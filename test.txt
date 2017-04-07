@@ -1,2 +1,10 @@
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 hi
 this is my test 
+=======
+hi 111
+>>>>>>> Stashed changes
+=======
+hi 111
+>>>>>>> Stashed changes
